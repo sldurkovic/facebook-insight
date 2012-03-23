@@ -1,0 +1,73 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big,
+cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl,
+dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, textarea {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: transparent;	
+	font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+}
+
+/** Add css rules here for your application. */
+.hand {
+    cursor: hand;
+    cursor: pointer;
+}
+
+.displayNone {
+    display: none;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+.visible {
+    visibility: visible;
+}
+
+html {
+	overflow-x: hidden;
+	overflow-y: auto; 
+}
+
+body {
+    font-size: 10pt;
+    font-family: Arial, "Trebuchet MS", Verdana;
+    font-weight: normal;
+}
+
+.inline-block {
+	display: inline-block;	
+}
+
+.panelShadow {
+    filter: progid:DXImageTransform.Microsoft.Shadow(color = #636363, Direction = 150, Strength = 4);
+    progid: DXImageTransform . Microsoft . Blur(pixelradius = 4);
+    -moz-box-shadow: 2px 2px 4px #636363;
+    -webkit-box-shadow: 2px 2px 4px #636363;
+    box-shadow: 2px 2px 4px #636363;
+}
+
+.gwt-TextBox {
+/*    padding-top: 2px;
+    height: 18px;
+    */
+    font-size: 10pt;
+}
+
+.hand{
+	cursor: pointer;
+	cursor: hand;
+}
+
+.side-Link{
+	padding-left: 10px;
+	border-right: 1px solid #133783;
+	padding-left: 30px;
+}
+.charts-Panel{
+	padding: 20px;
+}
