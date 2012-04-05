@@ -1,3 +1,3 @@
-#Chart representation of user "likes" retrieved from Facebook
+#Chart representation of user 'likes' retrieved from Facebook
 
 As a part of my research of social networks, I used this application to represent users data, previously collected from Facebook, in a form of simple and intuitive charts that can be used to extract many relevant conclusions. Examples of charts described here are supposed to make a solid ground for further development of other customized charts and graphs.
